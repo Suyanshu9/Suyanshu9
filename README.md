@@ -1,7 +1,8 @@
 - 👋 Hi, I’m suryanshu
 - 👀 I’m a passionate about programming and entrepreneurship.
 - 🌱 I’m currently persuing B-Tech in Coumputer Science and Engineering .
-- 💞️ I’m looking to collaborate on different web based or app based projects and learning to build D-apps.
+- ✨ I build Native and Cross-platform Mobile apps using Flutter and Kotlin. I handle the backend using django or Firebase.
+- 💞️ Essential on build.
 - 📫 I can be reached at suryanshu9d@gmail.com
 
 <!---
